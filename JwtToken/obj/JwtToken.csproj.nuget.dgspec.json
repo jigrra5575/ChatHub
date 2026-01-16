@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\jigar\\JWT TOKEN API\\JwtToken\\JwtToken.csproj": {}
+    "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Jigar GITHUB\\Chatting-Application\\JwtToken\\JwtToken.csproj": {}
   },
   "projects": {
-    "D:\\jigar\\JWT TOKEN API\\JwtToken\\JwtToken.csproj": {
+    "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Jigar GITHUB\\Chatting-Application\\JwtToken\\JwtToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\jigar\\JWT TOKEN API\\JwtToken\\JwtToken.csproj",
+        "projectUniqueName": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Jigar GITHUB\\Chatting-Application\\JwtToken\\JwtToken.csproj",
         "projectName": "JwtToken",
-        "projectPath": "D:\\jigar\\JWT TOKEN API\\JwtToken\\JwtToken.csproj",
+        "projectPath": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Jigar GITHUB\\Chatting-Application\\JwtToken\\JwtToken.csproj",
         "packagesPath": "C:\\Users\\MAHADEV\\.nuget\\packages\\",
-        "outputPath": "D:\\jigar\\JWT TOKEN API\\JwtToken\\obj\\",
+        "outputPath": "C:\\Users\\MAHADEV\\OneDrive\\Desktop\\Jigar GITHUB\\Chatting-Application\\JwtToken\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
